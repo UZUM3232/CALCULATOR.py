@@ -6,4 +6,4 @@ Directed by UZUM3232
 Usage:
       first press any number and select an symbol(+-*/)
       and select number again and then press equal symbol 
-      here you go you got it
+      here you go, you got it.
